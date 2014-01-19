@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Presentation", "CSMS3.Presentation\CSMS3.Presentation.csproj", "{D7CD38B8-CCDF-48FF-9E3C-0510218326B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.ApplicationContract", "CSMS3.ApplicationContract\CSMS3.ApplicationContract.csproj", "{5D409F2A-40CB-43AB-97B1-2A044F9780FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{0EF1FB37-2E6D-4708-840B-3BBC3E14002C}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Infrastructure", "CSMS3.Infrastructure\CSMS3.Infrastructure.csproj", "{5637749C-2613-481F-8291-FCB6447BD453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Application.DTO", "CSMS3.Application.DTO\CSMS3.Application.DTO.csproj", "{85379348-6BD7-435B-9DB0-AA91F89AAFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.ApplicationService", "CSMS3.ApplicationService\CSMS3.ApplicationService.csproj", "{9488E1E3-EF90-4D89-89DC-0C36863C0387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Application", "CSMS3.Application\CSMS3.Application.csproj", "{523CD0E5-6ECA-4196-874E-EA6EEB165B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Domain", "CSMS3.Domain\CSMS3.Domain.csproj", "{6272A451-ADC6-4191-9129-7957A8BEAAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Domain.Repository", "CSMS3.Domain.Repository\CSMS3.Domain.Repository.csproj", "{98D3267A-361D-48F6-BCD0-1E18900D2B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Event", "CSMS3.Event\CSMS3.Event.csproj", "{ACC8B20C-86CB-450E-963E-C6C17D53EBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS3.Infrastructure.Caching", "CSMS3.Infrastructure.Caching\CSMS3.Infrastructure.Caching.csproj", "{4DC5589E-874C-4305-9ED8-A86BB1E0782F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CD38B8-CCDF-48FF-9E3C-0510218326B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CD38B8-CCDF-48FF-9E3C-0510218326B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CD38B8-CCDF-48FF-9E3C-0510218326B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CD38B8-CCDF-48FF-9E3C-0510218326B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D409F2A-40CB-43AB-97B1-2A044F9780FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D409F2A-40CB-43AB-97B1-2A044F9780FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D409F2A-40CB-43AB-97B1-2A044F9780FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D409F2A-40CB-43AB-97B1-2A044F9780FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5637749C-2613-481F-8291-FCB6447BD453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5637749C-2613-481F-8291-FCB6447BD453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5637749C-2613-481F-8291-FCB6447BD453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5637749C-2613-481F-8291-FCB6447BD453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85379348-6BD7-435B-9DB0-AA91F89AAFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85379348-6BD7-435B-9DB0-AA91F89AAFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85379348-6BD7-435B-9DB0-AA91F89AAFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85379348-6BD7-435B-9DB0-AA91F89AAFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9488E1E3-EF90-4D89-89DC-0C36863C0387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9488E1E3-EF90-4D89-89DC-0C36863C0387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9488E1E3-EF90-4D89-89DC-0C36863C0387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9488E1E3-EF90-4D89-89DC-0C36863C0387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523CD0E5-6ECA-4196-874E-EA6EEB165B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523CD0E5-6ECA-4196-874E-EA6EEB165B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523CD0E5-6ECA-4196-874E-EA6EEB165B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523CD0E5-6ECA-4196-874E-EA6EEB165B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6272A451-ADC6-4191-9129-7957A8BEAAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6272A451-ADC6-4191-9129-7957A8BEAAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6272A451-ADC6-4191-9129-7957A8BEAAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6272A451-ADC6-4191-9129-7957A8BEAAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D3267A-361D-48F6-BCD0-1E18900D2B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D3267A-361D-48F6-BCD0-1E18900D2B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D3267A-361D-48F6-BCD0-1E18900D2B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D3267A-361D-48F6-BCD0-1E18900D2B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC8B20C-86CB-450E-963E-C6C17D53EBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC8B20C-86CB-450E-963E-C6C17D53EBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC8B20C-86CB-450E-963E-C6C17D53EBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC8B20C-86CB-450E-963E-C6C17D53EBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC5589E-874C-4305-9ED8-A86BB1E0782F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC5589E-874C-4305-9ED8-A86BB1E0782F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC5589E-874C-4305-9ED8-A86BB1E0782F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC5589E-874C-4305-9ED8-A86BB1E0782F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35;packages\Unity.Interception.2.1.505.2\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Caching.5.0.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal
