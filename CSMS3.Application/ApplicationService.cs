@@ -183,7 +183,7 @@ namespace CSMS3.Application
         /// 1. AutoMapper框架的初始化</remarks>
         public static void Initialize()
         {
-            Mapper.CreateMap<YongHuXXDTO, YongHuXX>();
+            Mapper.CreateMap<YongHuXX, YongHuXXDTO>();
         }
 
 

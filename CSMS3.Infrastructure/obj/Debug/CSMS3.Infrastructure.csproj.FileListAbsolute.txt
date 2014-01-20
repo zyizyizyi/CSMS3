@@ -26,3 +26,16 @@ D:\zyi\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Intercepti
 D:\zyi\CSMS3\CSMS3.Infrastructure\obj\Debug\CSMS3.Infrastructure.dll
 D:\zyi\CSMS3\CSMS3.Infrastructure\obj\Debug\CSMS3.Infrastructure.pdb
 D:\zyi\CSMS3\CSMS3.Infrastructure\obj\Debug\CSMS3.Infrastructure.csprojResolveAssemblyReference.cache
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\CSMS3.Infrastructure.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\CSMS3.Infrastructure.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.xml
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\obj\Debug\CSMS3.Infrastructure.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\obj\Debug\CSMS3.Infrastructure.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Infrastructure\obj\Debug\CSMS3.Infrastructure.csprojResolveAssemblyReference.cache

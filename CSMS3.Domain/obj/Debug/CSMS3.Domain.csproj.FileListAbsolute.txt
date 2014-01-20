@@ -26,3 +26,16 @@ D:\zyi\CSMS3\CSMS3.Domain\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\zyi\CSMS3\CSMS3.Domain\obj\Debug\CSMS3.Domain.csprojResolveAssemblyReference.cache
 D:\zyi\CSMS3\CSMS3.Domain\obj\Debug\CSMS3.Domain.dll
 D:\zyi\CSMS3\CSMS3.Domain\obj\Debug\CSMS3.Domain.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\CSMS3.Domain.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\CSMS3.Domain.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\CSMS3.Infrastructure.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\Microsoft.Practices.Unity.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\CSMS3.Infrastructure.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\Microsoft.Practices.Unity.xml
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\obj\Debug\CSMS3.Domain.csprojResolveAssemblyReference.cache
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\obj\Debug\CSMS3.Domain.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Domain\obj\Debug\CSMS3.Domain.pdb

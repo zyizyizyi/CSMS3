@@ -42,6 +42,7 @@ namespace CSMS3.Application.Implementation
         {
 
             var yongHuXX = yongHuXXRepository.GetYongHuXXByCID(cid);
+            //Mapper.CreateMap<YongHuXX, YongHuXXDTO>();
             var yongHuXXDTO = Mapper.Map<YongHuXX, YongHuXXDTO>(yongHuXX);
             return yongHuXXDTO;
         }

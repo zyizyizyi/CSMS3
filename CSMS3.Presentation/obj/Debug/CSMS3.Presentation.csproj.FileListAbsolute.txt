@@ -44,3 +44,12 @@ D:\zyi\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.csprojResolveAssemb
 D:\zyi\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.Form1.resources
 D:\zyi\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.Properties.Resources.resources
 D:\zyi\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.csproj.GenerateResource.Cache
+D:\zyi\工作项目\桂林大客户平台\CSMS3\Bind\CSMS3.Presentation.exe.config
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.exe
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\Bind\CSMS3.Presentation.exe
+D:\zyi\工作项目\桂林大客户平台\CSMS3\Bind\CSMS3.Presentation.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.csprojResolveAssemblyReference.cache
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.Form1.resources
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.Properties.Resources.resources
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Presentation\obj\Debug\CSMS3.Presentation.csproj.GenerateResource.Cache

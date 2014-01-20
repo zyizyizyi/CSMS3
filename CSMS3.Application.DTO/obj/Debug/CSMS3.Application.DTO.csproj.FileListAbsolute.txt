@@ -9,3 +9,7 @@ D:\zyi\CSMS3\CSMS3.Application.DTO\bin\Debug\CSMS3.Application.DTO.pdb
 D:\zyi\CSMS3\CSMS3.Application.DTO\obj\Debug\CSMS3.Application.DTO.dll
 D:\zyi\CSMS3\CSMS3.Application.DTO\obj\Debug\CSMS3.Application.DTO.pdb
 D:\zyi\CSMS3\CSMS3.Application.DTO\obj\Debug\CSMS3.Application.DTO.csprojResolveAssemblyReference.cache
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Application.DTO\bin\Debug\CSMS3.Application.DTO.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Application.DTO\bin\Debug\CSMS3.Application.DTO.pdb
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Application.DTO\obj\Debug\CSMS3.Application.DTO.dll
+D:\zyi\工作项目\桂林大客户平台\CSMS3\CSMS3.Application.DTO\obj\Debug\CSMS3.Application.DTO.pdb
