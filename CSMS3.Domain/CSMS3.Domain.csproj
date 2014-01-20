@@ -43,13 +43,15 @@
     <Compile Include="IAggregateRoot.cs" />
     <Compile Include="IEntity.cs" />
     <Compile Include="Model\AggregateRoot.cs" />
-    <Compile Include="Model\YongHuXX.cs" />
+    <Compile Include="Model\系统\Menu.cs" />
+    <Compile Include="Model\客户\YongHuXX.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\IYongHuXXRepository.cs" />
+    <Compile Include="Repository\客户\IYongHuXXRepository.cs" />
     <Compile Include="Repository\IRepository.cs" />
     <Compile Include="Repository\IRepositoryContext.cs" />
     <Compile Include="Repository\Repository.cs" />
     <Compile Include="Repository\RepositoryContext.cs" />
+    <Compile Include="Repository\系统\IMenuRepository.cs" />
     <Compile Include="Service\DomainService.cs" />
     <Compile Include="Service\IDomainService.cs" />
     <Compile Include="Specification\AndNotSpecification.cs" />
@@ -72,6 +74,36 @@
       <Project>{5637749c-2613-481f-8291-fcb6447bd453}</Project>
       <Name>CSMS3.Infrastructure</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\价格\" />
+    <Folder Include="Model\发票\" />
+    <Folder Include="Model\工作流\" />
+    <Folder Include="Model\抄表\" />
+    <Folder Include="Model\接口\" />
+    <Folder Include="Model\收费\" />
+    <Folder Include="Model\查询\" />
+    <Folder Include="Model\欠费\" />
+    <Folder Include="Model\特账\" />
+    <Folder Include="Model\表务\" />
+    <Folder Include="Model\词语\" />
+    <Folder Include="Model\账务\" />
+    <Folder Include="Model\银行文件\" />
+    <Folder Include="Model\销账\" />
+    <Folder Include="Repository\价格\" />
+    <Folder Include="Repository\发票\" />
+    <Folder Include="Repository\工作流\" />
+    <Folder Include="Repository\抄表\" />
+    <Folder Include="Repository\接口\" />
+    <Folder Include="Repository\收费\" />
+    <Folder Include="Repository\查询\" />
+    <Folder Include="Repository\欠费\" />
+    <Folder Include="Repository\特账\" />
+    <Folder Include="Repository\表务\" />
+    <Folder Include="Repository\词语\" />
+    <Folder Include="Repository\账务\" />
+    <Folder Include="Repository\银行文件\" />
+    <Folder Include="Repository\销账\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
