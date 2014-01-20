@@ -5,9 +5,6 @@ using CSMS3.Infrastructure.Caching;
 
 namespace CSMS3.ApplicationContract
 {
-    /// <summary>
-    /// 
-    /// </summary>
     [ServiceContract]
     public interface IService1 : IApplicationServiceContract
     {
@@ -18,7 +15,11 @@ namespace CSMS3.ApplicationContract
 
         [OperationContract]
         bool AddYongHuXX(YongHuXXDTO dto);
-
+        /// <summary>
+        /// test
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
         [OperationContract]
         string GetData(int value);
     }
