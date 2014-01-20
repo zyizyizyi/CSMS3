@@ -5,6 +5,9 @@ using CSMS3.Infrastructure.Caching;
 
 namespace CSMS3.ApplicationContract
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [ServiceContract]
     public interface IService1 : IApplicationServiceContract
     {
