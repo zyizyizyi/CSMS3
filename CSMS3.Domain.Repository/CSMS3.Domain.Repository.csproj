@@ -51,9 +51,10 @@
     <Compile Include="EntityFramework\EntityFrameworkRepository.cs" />
     <Compile Include="EntityFramework\EntityFrameworkRepositoryContext.cs" />
     <Compile Include="EntityFramework\IEntityFrameworkRepositoryContext.cs" />
-    <Compile Include="EntityFramework\ModelConfigurations\YongHuXXTypeConfiguration.cs" />
+    <Compile Include="EntityFramework\ModelConfigurations\客户\YongHuXXTypeConfiguration.cs" />
     <Compile Include="EntityFramework\SortByExtension.cs" />
-    <Compile Include="EntityFramework\YongHuXXRepository.cs" />
+    <Compile Include="EntityFramework\客户\YongHuXXRepository.cs" />
+    <Compile Include="EntityFramework\系统\MenuRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -69,6 +70,37 @@
       <Project>{5637749c-2613-481f-8291-fcb6447bd453}</Project>
       <Name>CSMS3.Infrastructure</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EntityFramework\ModelConfigurations\价格\" />
+    <Folder Include="EntityFramework\ModelConfigurations\发票\" />
+    <Folder Include="EntityFramework\ModelConfigurations\工作流\" />
+    <Folder Include="EntityFramework\ModelConfigurations\抄表\" />
+    <Folder Include="EntityFramework\ModelConfigurations\接口\" />
+    <Folder Include="EntityFramework\ModelConfigurations\收费\" />
+    <Folder Include="EntityFramework\ModelConfigurations\查询\" />
+    <Folder Include="EntityFramework\ModelConfigurations\欠费\" />
+    <Folder Include="EntityFramework\ModelConfigurations\特账\" />
+    <Folder Include="EntityFramework\ModelConfigurations\系统\" />
+    <Folder Include="EntityFramework\ModelConfigurations\表务\" />
+    <Folder Include="EntityFramework\ModelConfigurations\词语\" />
+    <Folder Include="EntityFramework\ModelConfigurations\账务\" />
+    <Folder Include="EntityFramework\ModelConfigurations\银行文件\" />
+    <Folder Include="EntityFramework\ModelConfigurations\销账\" />
+    <Folder Include="EntityFramework\价格\" />
+    <Folder Include="EntityFramework\发票\" />
+    <Folder Include="EntityFramework\工作流\" />
+    <Folder Include="EntityFramework\抄表\" />
+    <Folder Include="EntityFramework\接口\" />
+    <Folder Include="EntityFramework\收费\" />
+    <Folder Include="EntityFramework\查询\" />
+    <Folder Include="EntityFramework\欠费\" />
+    <Folder Include="EntityFramework\特账\" />
+    <Folder Include="EntityFramework\表务\" />
+    <Folder Include="EntityFramework\词语\" />
+    <Folder Include="EntityFramework\账务\" />
+    <Folder Include="EntityFramework\银行文件\" />
+    <Folder Include="EntityFramework\销账\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

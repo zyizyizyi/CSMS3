@@ -1,4 +1,5 @@
-﻿using CSMS3.Domain.Model;
+﻿using System.Collections.Generic;
+using CSMS3.Domain.Model;
 
 namespace CSMS3.Domain.Repository
 {
@@ -11,7 +12,7 @@ namespace CSMS3.Domain.Repository
         /// <summary>
         /// 获取所有激活菜单
         /// </summary>
-        Menu GetAllActiveMenu();
+        List<Menu> GetAllActiveMenu();
         #endregion
     }
 }

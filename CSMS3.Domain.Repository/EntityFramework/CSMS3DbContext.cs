@@ -29,6 +29,14 @@ namespace CSMS3.Domain.Repository.EntityFramework
         {
             get { return Set<YongHuXX>(); }
         }
+
+        /// <summary>
+        /// 获取<c>Menu</c>s.
+        /// </summary>
+        public DbSet<Menu> Menus
+        {
+            get { return Set<Menu>(); }
+        }
         #endregion
 
         #region Protected Methods
