@@ -16,7 +16,7 @@ namespace CSMS3.ApplicationContract
         [OperationContract]
         bool AddYongHuXX(YongHuXXDTO dto);
         /// <summary>
-        /// test
+        ///  123
         /// </summary>
         /// <param name="value"></param>
         /// <returns></returns>
